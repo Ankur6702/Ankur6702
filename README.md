@@ -1,7 +1,7 @@
 ## <div align="center">Hey 👋, Glad to see you here!</div>  
 
 ### Quick Bio
-Ankur Agarwal is a **MERN Stack Developer** and **Google DSC Lead** at IIIT Kota. He has a passion for leadership and community management, and has demonstrated this through his involvement in various events.
+Ankur Agarwal is a **MERN Stack Developer**. He has a passion for leadership and community management, and has demonstrated this through his involvement in various events.
 
 As a programmer, Ankur is fascinated by the world of code and spends much of his time learning and improving his skills. He is passionate about competitive programming and web development, and is always seeking out new challenges to tackle. Ankur is dedicated to self-improvement and works hard every day to become a better programmer and a more well-rounded individual.
 
@@ -9,8 +9,9 @@ Outside of his work and studies, Ankur enjoys connecting with others and expandi
   
 
 ### More about me  
-- 🔭 I’m SDE Intern at [ToolBox](https://www.gotoolbox.in/).  
-- 🌱 I’m currently improving my command in DSA and diving deep into DevOps.  
+- 💻 [Google DSC](https://gdsc.community.dev/indian-institute-of-information-technology-kota/) Lead (2022 - 23) at IIIT Kota.
+- 🔭 Former SDE Intern at [ToolBox](https://www.gotoolbox.in/).  
+- 🌱 Brushing up my DSA knowledge and diving deep into DevOps.  
 - ❓ Ask me anything about Leadership, Community Management and MERN Stack Development.
 
 <br/>
