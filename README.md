@@ -10,6 +10,7 @@ Outside of his work and studies, Ankur enjoys connecting with others and expandi
 
 ### More about me  
 - 💻 [Google DSC](https://gdsc.community.dev/indian-institute-of-information-technology-kota/) Lead (2022 - 23) at IIIT Kota.
+- 🚀 Microsoft Learn Student Ambassador.
 - 🔭 Former SDE Intern at [ToolBox](https://www.gotoolbox.in/).  
 - 🌱 Brushing up my DSA knowledge and diving deep into DevOps.  
 - ❓ Ask me anything about Leadership, Community Management and MERN Stack Development.
