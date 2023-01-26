@@ -1,7 +1,7 @@
 ## <div align="center">Hey 👋, Glad to see you here!</div>  
 
 ### Quick Bio
-Ankur Agarwal is a **MERN Stack Developer**. He has a passion for leadership and community management, and has demonstrated this through his involvement in various events.
+[Ankur Agarwal](https://theankur.tech/) is a **MERN Stack Developer**. He has a passion for leadership and community management, and has demonstrated this through his involvement in various events.
 
 As a programmer, Ankur is fascinated by the world of code and spends much of his time learning and improving his skills. He is passionate about competitive programming and web development, and is always seeking out new challenges to tackle. Ankur is dedicated to self-improvement and works hard every day to become a better programmer and a more well-rounded individual.
 
