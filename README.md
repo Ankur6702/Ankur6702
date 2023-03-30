@@ -8,13 +8,14 @@ As a programmer, Ankur is fascinated by the world of code and spends much of his
 Outside of his work and studies, Ankur enjoys connecting with others and expanding his professional network.  
   
 
-### More about me  
-- 💻 [Google DSC](https://gdsc.community.dev/indian-institute-of-information-technology-kota/) Lead (2022 - 23) at IIIT Kota.
+### More about me 
+- 🖥️ [MLH](https://fellowship.mlh.io/) Prep Fellow'23
+- 💻 [Google DSC](https://gdsc.community.dev/indian-institute-of-information-technology-kota/) Lead'22.
 - 🚀 Microsoft Learn Student Ambassador.
 - 👨‍🎓 [Placement](https://tpcell.iiitkota.ac.in/) Coordinator at IIIT Kota.
 - 🔭 Former SDE Intern at [ToolBox](https://www.gotoolbox.in/).  
-- 🌱 Brushing up my DSA knowledge and diving deep into DevOps.  
-- ❓ Ask me anything about Leadership, Community Management and MERN Stack Development.
+- 🌱 Brushing up my DSA knowledge and diving deep into DevOps.
+- ❓ Ask me anything about Leadership, Community Building and MERN Stack Development.
 
 <br/>
 
