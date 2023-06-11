@@ -9,6 +9,7 @@ Outside of his work and studies, Ankur enjoys connecting with others and expandi
   
 
 ### More about me 
+- 🔭 SWE Intern at [Coinbase](https://www.coinbase.com/)
 - 🖥️ [MLH](https://fellowship.mlh.io/) Prep Fellow'23
 - 💻 [Google DSC](https://gdsc.community.dev/indian-institute-of-information-technology-kota/) Lead'22.
 - 🚀 Microsoft Learn Student Ambassador.
